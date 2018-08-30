@@ -1,0 +1,1 @@
+Earthquake of Magnitude:5.0, Occurred on:24-08-2018, 22:10:07 IST, Lat:24.9 N & Long: 92.1 E, Depth: 96 Km, Region:North Tripura
